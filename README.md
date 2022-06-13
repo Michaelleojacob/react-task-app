@@ -1,4 +1,4 @@
-# Live app: https://michaelleojacob.github.io/react-task-app/
+# Live app: [https://michaelleojacob.github.io/react-task-app/](https://michaelleojacob.github.io/odin-task-app/)
 
 # repo: https://github.com/Michaelleojacob/react-task-app
 
